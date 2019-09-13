@@ -4,3 +4,4 @@ __pycache__/
 *$py.class
 .DS_Store
 generated_account_data.csv
+openaddr-collected-us/
