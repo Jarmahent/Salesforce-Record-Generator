@@ -1,0 +1,9 @@
+Click==7.0
+Faker==2.0.1
+numpy==1.17.2
+pandas==0.25.1
+phonetics==1.0.5
+python-dateutil==2.8.0
+pytz==2019.2
+six==1.12.0
+text-unidecode==1.2
