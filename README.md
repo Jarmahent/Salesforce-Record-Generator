@@ -16,3 +16,4 @@ Example results:
 Name,BillingStreet,BillingCity,BillingPostalCode,BillingCountry,BillingState,MobilePhone
 "Pugh, Davis and Gordon",Kelly Squares Cove,Bristol,18296,United States,RI,603-121-7834
 ```
+![csv table example](https://i.imgur.com/Pag0K6i.png "CSV Table Example")
