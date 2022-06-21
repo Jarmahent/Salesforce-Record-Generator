@@ -1,6 +1,6 @@
 Click==7.0
 Faker==2.0.1
-numpy==1.17.2
+numpy==1.22.0
 pandas==0.25.1
 phonetics==1.0.5
 python-dateutil==2.8.0
